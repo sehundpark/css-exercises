@@ -1,0 +1,28 @@
+/* styles.css */
+
+.teeth {
+    background-color: #fd89a6;
+    font-family: "Verdana", "Dejavu Sans", sans-serif
+}
+
+.teeth.bong,
+#trumpet {
+    font-size: 24px;
+}
+
+#trumpet {
+    background-color: #a7fda7;
+    font-weight: bold;
+}
+
+#mouth {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/* Below code is to create a box to center text
+.container {
+    display: flex;
+    justify-content: center;
+}
+*/

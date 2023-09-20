@@ -1,0 +1,14 @@
+.touchy,
+.metouchy {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.touchy {
+    color: white;
+    background-color: black;
+}
+
+.metouchy {
+    background-color: yellow;
+}

@@ -15,7 +15,7 @@ The properties you need to add to each element are:
 * Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
 
 ## Desired Outcome
-![desired outcome](./desired-outcome.png)
+![desired outcome](./images/desired-outcome.png)
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
